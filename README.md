@@ -45,6 +45,10 @@ This repository contains a set of standalone Bash scripts that you can run on an
     cd SSH\ helper/
     ./ssh.sh
     ```
+ - Example for using `SSH helper`:  
+    ```bash
+    mpv --cache=yes --cache-secs=240 "https://iptv-org.github.io/iptv/index.m3u"
+    ```   
 
 (Add more usage instructions as needed.)
 
