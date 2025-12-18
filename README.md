@@ -68,4 +68,3 @@ Feel free to contribute! If you have a useful Bash script you’d like to add, p
 MIT License
 
 ---
-
